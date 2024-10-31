@@ -1,4 +1,0 @@
-streamlit           # Streamlit 主应用库
-pandas              # 数据处理库
-plotly              # 绘图和交互图表库
-matplotlib          # 数据可视化库
